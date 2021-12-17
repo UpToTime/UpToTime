@@ -1,4 +1,4 @@
-### Hi there 👋, Stephen Muiruri Kinyanjui
+### Hi there 👋, Am Stephen Muiruri Kinyanjui
 #### Web development and game development
 ![Web development and game development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
