@@ -1,6 +1,6 @@
 ### Hi there 👋, Am Stephen Muiruri Kinyanjui
 #### Web, software and game development
-![web,game and software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![web,game and software developer](https://github.com/UpToTime/UpToTime/blob/main/Images/Screenshot_20220209-211141_1.png)
 
 This is a short bio about me.
 
