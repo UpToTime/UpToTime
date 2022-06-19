@@ -11,7 +11,7 @@ Skills: R / python / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Web applications 
 - 🤔 I’m looking for help with JavaScript unit testing 
 - 💬 Ask me about Python (esp kivy). 
-- 😄 Pronouns: Mr 
+- 😄 Pronouns: He
 - ⚡ Fun fact: Am super active during the night (Night type of person) 
 
 
